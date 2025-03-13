@@ -2,6 +2,7 @@
 
 [![Hugging Face Datasets](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-yellow.svg)](https://huggingface.co/datasets/BAAI/ChildMandarin)
 [![Hugging Face Datasets](https://img.shields.io/badge/Paper-link-orange)](https://arxiv.org/abs/2409.18584)
+[![License: CC BY-NC-SA-4.0](https://img.shields.io/badge/License-CC%20BY--SA--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ## ⭐ Introduction
 
 This repository contains the **ChildMandarin** dataset, a comprehensive Mandarin speech dataset specifically designed for young children aged 3 to 5. This dataset aims to address the scarcity of resources in this area and facilitate research in child speech recognition, speaker verification, and related fields.
