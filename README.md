@@ -1,7 +1,7 @@
 # ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5
 
 [![Hugging Face Datasets](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-yellow.svg)](https://huggingface.co/datasets/BAAI/ChildMandarin)
-
+[![Hugging Face Datasets](https://img.shields.io/badge/Paper-link-orange)](https://arxiv.org/abs/2409.18584)
 ## ⭐ Introduction
 
 This repository contains the **ChildMandarin** dataset, a comprehensive Mandarin speech dataset specifically designed for young children aged 3 to 5. This dataset aims to address the scarcity of resources in this area and facilitate research in child speech recognition, speaker verification, and related fields.
