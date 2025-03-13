@@ -34,7 +34,7 @@ More details could be found in our paper [ChildMandarin](https://arxiv.org/abs/2
 
 We conducted experiments on Automatic Speech Recognition (ASR) and Speaker Verification (SV) tasks to evaluate the dataset.
 
-### ASR Results
+### 1️⃣ ASR Results
 
 #### Models Trained from Scratch
 
@@ -66,7 +66,7 @@ We conducted experiments on Automatic Speech Recognition (ASR) and Speaker Verif
 | SenseVoice (Small)    |   234M   | 11.89     | 
 
 
-### SV Results
+### 2️⃣ SV Results
 |      Model      | # Params | Dim | Dev (%) | EER (%) | minDCF | EER (%) | minDCF  |
 |:---------------:|:--------:|:---:|:-------:|:-------:|:------:|:-------:|:-------:|
 |    x-vector    |   4.2M   | 512 |   75.4  |  8.91  | 0.7198 |  25.92 |  0.9780  |
