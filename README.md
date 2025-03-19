@@ -76,9 +76,9 @@ We conducted experiments on Automatic Speech Recognition (ASR) and Speaker Verif
 
 
 
-## 🤗 HuggingFace Dataset
+## 🤗 Dataset Download
 
-You can access the ChildMandarin dataset on Hugging Face Datasets:
+You can access the ChildMandarin dataset on HuggingFace Datasets:
 
 [https://huggingface.co/datasets/BAAI/ChildMandarin](https://huggingface.co/datasets/BAAI/ChildMandarin)
 
